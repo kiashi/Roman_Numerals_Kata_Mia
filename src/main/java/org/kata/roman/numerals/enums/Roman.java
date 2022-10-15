@@ -15,6 +15,7 @@ public enum Roman {
     SOIXANTE("LX"),
     QUATRE_VINGT_DIX("XC"),
     CENT("C"),
+    QUATRE_CENT("CD"),
     CINQ_CENT("D"),
     NEUF_CENT("CM"),
     MILLE("M");
